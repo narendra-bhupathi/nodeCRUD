@@ -1,0 +1,17 @@
+{
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "curd application with expressjs and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1",
+    "validator": "^13.5.2"
+  }
+}
